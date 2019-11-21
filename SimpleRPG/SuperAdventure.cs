@@ -26,6 +26,34 @@ namespace SimpleRPG
 
         }
 
-        
+        private void northButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void eastButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void southButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void westButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void useWeaponButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void usePotionButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
