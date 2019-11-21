@@ -25,6 +25,12 @@ namespace SimpleRPG
         public SuperAdventure()
         {
             InitializeComponent();
+
+            hitPointsTextBox.Text = _player.CurrentHitPoints.ToString();
+            goldTextBox.Text = _player.Gold.ToString();
+            experienceTextBox.Text = _player.ExperiencePoints.ToString();
+            levelTextBox.Text = _player.Level.ToString();
+
         }
 
         

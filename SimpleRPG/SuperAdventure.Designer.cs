@@ -36,7 +36,6 @@
             this.goldTextBox = new System.Windows.Forms.TextBox();
             this.experienceTextBox = new System.Windows.Forms.TextBox();
             this.levelTextBox = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // hitPointsLabel
@@ -107,23 +106,12 @@
             this.levelTextBox.Size = new System.Drawing.Size(100, 13);
             this.levelTextBox.TabIndex = 7;
             // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(149, 192);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 8;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
             // SuperAdventure
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(719, 651);
-            this.Controls.Add(this.button1);
             this.Controls.Add(this.levelTextBox);
             this.Controls.Add(this.experienceTextBox);
             this.Controls.Add(this.goldTextBox);
@@ -149,7 +137,6 @@
         private System.Windows.Forms.TextBox goldTextBox;
         private System.Windows.Forms.TextBox experienceTextBox;
         private System.Windows.Forms.TextBox levelTextBox;
-        private System.Windows.Forms.Button button1;
     }
 }
 
