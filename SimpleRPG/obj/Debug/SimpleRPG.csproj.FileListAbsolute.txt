@@ -1,12 +1,12 @@
-C:\Users\SysAdmin\source\repos\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.csprojAssemblyReference.cache
-C:\Users\SysAdmin\source\repos\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.Properties.Resources.resources
-C:\Users\SysAdmin\source\repos\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.SuperAdventure.resources
-C:\Users\SysAdmin\source\repos\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.csproj.GenerateResource.cache
 C:\Users\SysAdmin\source\repos\SimpleRPG\SimpleRPG\bin\Debug\SimpleRPG.exe.config
 C:\Users\SysAdmin\source\repos\SimpleRPG\SimpleRPG\bin\Debug\SimpleRPG.exe
 C:\Users\SysAdmin\source\repos\SimpleRPG\SimpleRPG\bin\Debug\SimpleRPG.pdb
 C:\Users\SysAdmin\source\repos\SimpleRPG\SimpleRPG\bin\Debug\Engine.dll
 C:\Users\SysAdmin\source\repos\SimpleRPG\SimpleRPG\bin\Debug\Engine.pdb
+C:\Users\SysAdmin\source\repos\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.csprojAssemblyReference.cache
+C:\Users\SysAdmin\source\repos\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.Properties.Resources.resources
+C:\Users\SysAdmin\source\repos\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.SuperAdventure.resources
+C:\Users\SysAdmin\source\repos\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.csproj.GenerateResource.cache
 C:\Users\SysAdmin\source\repos\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.csproj.CopyComplete
 C:\Users\SysAdmin\source\repos\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.exe
 C:\Users\SysAdmin\source\repos\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.pdb

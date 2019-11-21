@@ -1,7 +1,6 @@
 C:\Users\SysAdmin\source\repos\SimpleRPG\Engine\bin\Debug\netstandard2.0\Engine.deps.json
 C:\Users\SysAdmin\source\repos\SimpleRPG\Engine\bin\Debug\netstandard2.0\Engine.dll
 C:\Users\SysAdmin\source\repos\SimpleRPG\Engine\bin\Debug\netstandard2.0\Engine.pdb
-C:\Users\SysAdmin\source\repos\SimpleRPG\Engine\obj\Debug\netstandard2.0\Engine.csprojAssemblyReference.cache
 C:\Users\SysAdmin\source\repos\SimpleRPG\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfoInputs.cache
 C:\Users\SysAdmin\source\repos\SimpleRPG\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfo.cs
 C:\Users\SysAdmin\source\repos\SimpleRPG\Engine\obj\Debug\netstandard2.0\Engine.dll
