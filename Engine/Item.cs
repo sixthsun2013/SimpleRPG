@@ -8,8 +8,8 @@ namespace Engine
     {
         public int ID { get; set; }
 
-        public int Name { get; set; }
+        public string Name { get; set; }
 
-        public int NamePlural { get; set; }
+        public string NamePlural { get; set; }
     }
 }
