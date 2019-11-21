@@ -13,14 +13,7 @@ namespace SimpleRPG
 {
     public partial class SuperAdventure : Form
     {
-        private Player _player = new Player() 
-        { 
-            CurrentHitPoints = 10, 
-            ExperiencePoints = 10,
-            Gold = 20, 
-            Level = 0, 
-            MaximumHitPoints = 1
-        };
+        private Player _player = new Player(20, 10, 0, 10, 1);
 
         public SuperAdventure()
         {
